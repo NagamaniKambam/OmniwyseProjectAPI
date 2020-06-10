@@ -1,1 +1,1 @@
-# OmniwyseProjectAPI
+# omniwyse-notifications
